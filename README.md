@@ -31,7 +31,7 @@ npm test
 npm run build
 ```
 
-The manifest and package version are **1.0.0**. Commit the rebuilt root files when
+The manifest and package version are **1.0.1**. Commit the rebuilt root files when
 publishing updates. See [the usage guide](docs/usage.md) for features, architecture,
 and limitations. Tests simulate Obsidian; real desktop and mobile UI checks remain
 manual.
